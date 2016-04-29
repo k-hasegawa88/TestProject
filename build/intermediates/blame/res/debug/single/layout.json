@@ -8,6 +8,22 @@
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_progress.xml"
     },
     {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_attach_file.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_attach_file.xml"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_detail.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_detail.xml",
+        "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_progress.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_progress.xml"
+    },
+    {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_object.xml",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_create_object.xml"
     },
@@ -16,15 +32,27 @@
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_detail.xml",
-        "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_detail.xml"
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_login.xml"
     },
     {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_attach_file.xml",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_attach_file.xml"
     },
     {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_summary.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_object.xml",
+        "source": "E:\\APP\\TestProject\\res\\layout\\fragment_create_object.xml"
     }
 ]

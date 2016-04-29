@@ -4,20 +4,52 @@
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\launcher.png"
     },
     {
-        "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\tut.png",
-        "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\tut.png"
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\page1.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\page1.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\page4.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\page4.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\page2.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\page2.png"
     },
     {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\page4.png",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\page4.png"
     },
     {
+        "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\tut.png",
+        "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\tut.png"
+    },
+    {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\custom_button.xml"
     },
     {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\datastore.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\datastore.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\custom_button.xml"
+    },
+    {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\page3.png",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\page3.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\bodyattach.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\bodyattach.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\launcher.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\page3.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\page3.png"
     },
     {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\bodyattach.png",
@@ -26,6 +58,10 @@
     {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\page2.png",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\drawable\\page2.png"
+    },
+    {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable\\tut.png",
+        "source": "E:\\APP\\TestProject\\res\\drawable\\tut.png"
     },
     {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\datastore.png",
