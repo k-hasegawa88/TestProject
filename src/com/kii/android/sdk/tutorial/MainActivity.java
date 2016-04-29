@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(this,"test", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"testtesttest", Toast.LENGTH_LONG).show();
         loadFragment();
     }
     

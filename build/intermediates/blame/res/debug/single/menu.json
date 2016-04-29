@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\workspace\\TestProject\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\workspace\\TestProject\\res\\menu\\main.xml"
+    },
+    {
         "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\APP\\TestProject\\res\\menu\\main.xml"
     },

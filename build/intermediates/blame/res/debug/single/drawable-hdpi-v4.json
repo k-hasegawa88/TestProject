@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\workspace\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\workspace\\TestProject\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\APP\\TestProject\\res\\drawable-hdpi\\ic_launcher.png"
     },
