@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\APP\\TestProject\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\APP\\TestProject\\res\\menu\\main.xml"
+    },
+    {
         "merged": "C:\\workspace\\KiiAndroidSDKTutorial\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\workspace\\KiiAndroidSDKTutorial\\res\\menu\\main.xml"
     }
